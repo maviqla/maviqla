@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Victoria Maria de Queiroz.</h1>
-<h3 align="center">Tgirl software engineer with 2 years of working experience specializing in backend development.</h3>
+<h2 align="left">Hi 👋, I'm Victoria Maria.</h1>
+<h3 align="left">Tgirl software engineer with 2 years of working experience specializing in backend development.</h3>
 
 Aside from Node.js, I have experience working with containerization via Docker, container orchestration with Kubernetes, and message queue development with Apache Kafka!
 
