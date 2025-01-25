@@ -3,10 +3,12 @@
 
 Aside from Node.js, I have experience working with containerization via Docker, container orchestration with Kubernetes, and message queue development with Apache Kafka!
 
-🔭 Currently working @ **Cloudwalk, inc**
-📫 Reach me @ **victoria.prjt@gmail.com**
-🌱 Learning Godot game engine and Python!
-🎮 Gamer girl with a special love for cRPGs and survival horrors
+<p>
+  🔭 Currently working @ <strong>Cloudwalk, inc</strong><br>
+  📫 Reach me @ <strong>victoria.prjt@gmail.com</strong><br>
+  🌱 Learning Godot game engine and Python!<br>
+  🎮 Gamer girl with a special love for cRPGs and survival horrors
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
