@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋, I'm Victoria Maria.</h1>
-<h3 align="left">Tgirl software engineer with 2 years of working experience specializing in backend development.</h3>
+<h3 align="left"> software engineer with 3 years of working experience specializing in backend development.</h3>
 
-Aside from Node.js, I have experience working with containerization via Docker, container orchestration with Kubernetes, and message queue development with Apache Kafka!
+Aside from Node.js and Ruby on rails, I have experience working with containerization via Docker, container orchestration with Kubernetes, and message queue development with Apache Kafka!
 
 <p>
-  🔭 Currently working @ <strong>Cloudwalk, inc</strong><br>
+  🔭 Currently searching for a new job!
   📫 Reach me @ <strong>victoria.prjt@gmail.com</strong><br>
   🌱 Learning Godot game engine and Python!<br>
   🎮 Gamer girl with a special love for cRPGs and survival horrors
