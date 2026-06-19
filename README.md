@@ -1,13 +1,16 @@
 <h2 align="left">Hi 👋, I'm Victoria Maria.</h1>
-<h3 align="left"> software engineer with 3 years of working experience specializing in backend development.</h3>
+<h3 align="left">Software Engineer with 3+ years of experience focused on backend development, system design, and software architecture.</h3>
 
-Aside from Node.js and Ruby on rails, I have experience working with containerization via Docker, container orchestration with Kubernetes, and message queue development with Apache Kafka!
+I have hands-on experience designing and building scalable backend systems using Node.js and Ruby on Rails, with strong focus on RESTful API design, event-driven architectures, and distributed systems. I’ve worked with Docker for containerization, Kubernetes for orchestration, and Apache Kafka for building resilient, asynchronous communication between services.
+
+My work includes designing APIs with a focus on performance, maintainability, and clean architecture principles, as well as contributing to decisions around system decomposition, service boundaries, and scalability strategies in production environments.
 
 <p>
-  🔭 Currently searching for a new job!
-  📫 Reach me @ <strong>victoria.prjt@gmail.com</strong><br>
-  🌱 Learning Godot game engine and Python!<br>
-  🎮 Gamer girl with a special love for cRPGs and survival horrors
+🔭 Currently open to new opportunities
+📫 Reach me at: victoria.prjt@gmail.com
+
+🌱 Currently learning Godot Engine and Python
+🎮 Passionate about cRPGs and survival horror games
 </p>
 
 <h3 align="left">Connect with me:</h3>
